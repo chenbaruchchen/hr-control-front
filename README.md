@@ -1,2 +1,3 @@
-# hr-control-front
-Created with CodeSandbox
+# HR-control front-end
+
+rewrite front end
